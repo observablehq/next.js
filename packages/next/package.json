@@ -1,10 +1,10 @@
 {
-  "name": "next",
-  "version": "12.2.5",
+  "name": "@observablehq/next",
+  "version": "12.2.5-alpha.1",
   "description": "The React Framework",
   "main": "./dist/server/next.js",
   "license": "MIT",
-  "repository": "vercel/next.js",
+  "repository": "observablehq/next.js",
   "bugs": "https://github.com/vercel/next.js/issues",
   "homepage": "https://nextjs.org",
   "types": "index.d.ts",
