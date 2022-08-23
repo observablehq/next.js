@@ -1,6 +1,6 @@
 {
   "name": "@observablehq/next",
-  "version": "12.2.5-alpha.1",
+  "version": "12.2.5-alpha.2",
   "description": "The React Framework",
   "main": "./dist/server/next.js",
   "license": "MIT",
@@ -283,5 +283,20 @@
   },
   "engines": {
     "node": ">=12.22.0"
+  },
+  "optionalDependencies": {
+    "@next/swc-android-arm-eabi": "12.2.5",
+    "@next/swc-android-arm64": "12.2.5",
+    "@next/swc-darwin-arm64": "12.2.5",
+    "@next/swc-darwin-x64": "12.2.5",
+    "@next/swc-freebsd-x64": "12.2.5",
+    "@next/swc-linux-arm-gnueabihf": "12.2.5",
+    "@next/swc-linux-arm64-gnu": "12.2.5",
+    "@next/swc-linux-arm64-musl": "12.2.5",
+    "@next/swc-linux-x64-gnu": "12.2.5",
+    "@next/swc-linux-x64-musl": "12.2.5",
+    "@next/swc-win32-arm64-msvc": "12.2.5",
+    "@next/swc-win32-ia32-msvc": "12.2.5",
+    "@next/swc-win32-x64-msvc": "12.2.5"
   }
 }
